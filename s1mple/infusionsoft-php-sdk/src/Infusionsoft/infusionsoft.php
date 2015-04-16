@@ -16,6 +16,9 @@ $classLoader = new Infusionsoft_Classloader();
 spl_autoload_register(array(&$classLoader, "loadClass"));
 
 // Load config file if it exists. You can use the SDK without a config file.
+
+// todo: prioritize checking app vendor config overwrite path, 
+// then go to local conf path
 if(file_exists(dirname(__FILE__) . '/config.php')){
     require(dirname(__FILE__) . '/config.php');
 }
