@@ -2,7 +2,6 @@
     "name": "s1mple/infusionsoft-php-sdk",
     "description": "A s1mpler Infusionsoft SDK for PHP with Laravel 4.2 support.",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
-    "version": "v2014-09-11",
     "license": "MIT",
     "homepage": "https://www.getoptimind.com",
     "authors": [

@@ -1,4 +1,10 @@
-# Infusionsoft PHP SDK
+# s1mple Infusionsoft PHP SDK
+
+## Publish your config
+
+`php artisan config:publish s1mple/infusionsoft-php-sdk`
+
+## Originally forked readme:
 
 [Novak Solutions](https://novaksolutions.com/?utm_source=github&utm_medium=readme&utm_campaign=homepage) created the *Infusionsoft PHP SDK* to make it easier to develop for the Infusionsoft platform. The SDK utilizes the official Infusionsoft API, but works around some of its [known gotchas](https://novaksolutions.com/infusionsoft-api-gotchas/?utm_source=github&utm_medium=readme&utm_campaign=gotchas).
 
