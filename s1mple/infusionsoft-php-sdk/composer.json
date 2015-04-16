@@ -1,19 +1,22 @@
 {
-    "name": "novaksolutions/infusionsoft-php-sdk",
-    "description": "A better Infusionsoft SDK for PHP",
+    "name": "s1mple/infusionsoft-php-sdk",
+    "description": "A s1mpler Infusionsoft SDK for PHP with Laravel 4.2 support.",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
     "version": "v2014-09-11",
     "license": "MIT",
-    "homepage": "https://novaksolutions.com",
+    "homepage": "https://www.getoptimind.com",
     "authors": [
         {
-            "name": "Novak Solutions",
-            "homepage": "https://novaksolutions.com"
+            "name": "AlternaScript LLC",
+            "homepage": "https://www.getoptimind.com"
         }
     ],
     "require": {
         "php": ">=5.2.0",
         "ext-curl": "*"
+    },
+    "suggest": {
+        "illuminate/support": "Required for Laravel support"
     },
     "autoload": {
         "classmap": ["Infusionsoft/infusionsoft.php"]
