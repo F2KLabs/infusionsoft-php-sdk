@@ -1,5 +1,6 @@
 <?php namespace S1mple\Infusionsoft;
 
+require_once('Infusionsoft/Classloader.php');
 use Illuminate\Support\ServiceProvider;
 
 class InfusionsoftServiceProviderLaravel5 extends ServiceProvider {

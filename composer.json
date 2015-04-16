@@ -18,6 +18,8 @@
         "illuminate/support": "Required for Laravel support"
     },
     "autoload": {
-        "classmap": ["Infusionsoft/infusionsoft.php"]
+      "psr-4": {
+        "S1mple\\Infusionsoft\\": "src/"
+      }
     }
 }
