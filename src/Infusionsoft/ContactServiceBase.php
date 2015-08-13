@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_ContactServiceBase extends Infusionsoft_Service{
 
     public static function add($data, Infusionsoft_App $app = null){

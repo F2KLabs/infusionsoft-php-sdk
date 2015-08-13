@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft\Generated;
 /**
  * @property String Address1Type
  * @property String Address2Street1

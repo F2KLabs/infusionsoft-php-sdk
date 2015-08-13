@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
 
 $infusionsoft_host = 'joey.infusionsoft.com';
 $infusionsoft_api_key = 'YOUR API KEY GOES HERE';

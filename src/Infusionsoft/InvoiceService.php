@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_InvoiceService extends Infusionsoft_InvoiceServiceBase{
     public static function chargeInvoiceArbitraryAmount($contactId, $invoiceId, $cardId, $amount, $merchantAccountId){
 

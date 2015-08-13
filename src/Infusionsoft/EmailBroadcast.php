@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 /**
  * Created by PhpStorm.
  * User: joey

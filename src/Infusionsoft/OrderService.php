@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_OrderService extends Infusionsoft_OrderServiceBase {
     /**
      * Copy an existing RecurringOrder to a new date and mark the old one as Inactive.

@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_DataService extends Infusionsoft_DataServiceBase
 {
     public static function ping($serviceName = 'DataService', Infusionsoft_App $app = null)

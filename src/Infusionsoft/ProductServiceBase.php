@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
 class Infusionsoft_ProductServiceBase extends Infusionsoft_Service{
 
     public static function deactivateCreditCard($creditCardId, Infusionsoft_App $app = null){

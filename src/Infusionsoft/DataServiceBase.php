@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_DataServiceBase extends Infusionsoft_Service{
 
     public static function authenticateUser($username, $passwordHash, Infusionsoft_App $app = null){

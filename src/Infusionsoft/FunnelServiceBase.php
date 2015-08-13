@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_FunnelServiceBase extends Infusionsoft_Service {
 
     public static function achieveGoal($integration, $callName, $contactId = 0, Infusionsoft_App $app = null){

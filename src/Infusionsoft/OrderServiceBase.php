@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_OrderServiceBase extends Infusionsoft_Service {
     public static function placeOrder($contactId, $creditCardId, $payPlanId, $productIds, $subscriptionPlanIds, $processSpecials, $promoCodes, $leadAffiliateId = 0, $affiliatedId = 0, Infusionsoft_App $app = null){
         $params = array(

@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
 
 class Infusionsoft_Contact extends Infusionsoft_Generated_Contact{
     var $customFieldFormId = -1;

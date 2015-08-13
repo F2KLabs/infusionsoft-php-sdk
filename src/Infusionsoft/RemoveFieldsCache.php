@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 /**
  * Created by JetBrains PhpStorm.
  * User: Joey
@@ -7,6 +9,7 @@
  * To change this template use File | Settings | File Templates.
  */
 define('INFUSIONSOFT_REMOVE_FIELDS_URL', 'https://d3rof4a8ql225j.cloudfront.net/hosted/php-infusionsoft-sdk/0.9.14_remove_fields.txt');
+
 
 class Infusionsoft_RemoveFieldsCache extends Infusionsoft_SmartCache{
     public function __construct(){

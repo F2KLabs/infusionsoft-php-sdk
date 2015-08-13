@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_CustomFieldService extends Infusionsoft_DataService{
 
     static $DataType_Name = 10;

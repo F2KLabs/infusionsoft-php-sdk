@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
 class Infusionsoft_CreditCardSubmissionService extends Infusionsoft_Service{
 
     /**

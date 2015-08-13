@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
 // by Edd Dumbill (C) 1999-2002
 // <edd@usefulinc.com>
 

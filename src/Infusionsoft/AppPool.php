@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 /**
  * Class Infusionsoft_AppPool
  */

@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_FileServiceBase extends Infusionsoft_Service{
 
     public static function getFile($fileId, Infusionsoft_App $app = null){

@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft\Generated;
 /**
  * @property String DataType
  * @property String Id

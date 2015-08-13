@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_Company extends Infusionsoft_Generated_Company{
     var $customFieldFormId = -6;
     public function __construct($id = null, $app = null){

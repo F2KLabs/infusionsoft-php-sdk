@@ -1,5 +1,5 @@
 <?php
-
+namespace S1mple\Infusionsoft\Infusionsoft;
 /* Usage */
 
 class Infusionsoft_Classloader

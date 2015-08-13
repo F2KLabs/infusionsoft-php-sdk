@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_ContactAction extends Infusionsoft_Generated_ContactAction{
     var $customFieldFormId = -5;
     public function __construct($id = null, $app = null){

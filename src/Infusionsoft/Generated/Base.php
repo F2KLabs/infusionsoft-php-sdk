@@ -1,4 +1,5 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft\Generated;
 
 class Infusionsoft_Generated_Base
 {

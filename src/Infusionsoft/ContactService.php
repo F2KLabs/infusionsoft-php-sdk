@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_ContactService extends Infusionsoft_ContactServiceBase{
     public static function getContactListWhoHaveATagInCategory($categoryName){
         $categories = Infusionsoft_DataService::query(new Infusionsoft_ContactGroupCategory(), array('CategoryName' => $categoryName));

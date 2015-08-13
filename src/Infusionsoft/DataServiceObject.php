@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 
 class Infusionsoft_DataServiceObject {    
     public function __construct($table, $initial_data){

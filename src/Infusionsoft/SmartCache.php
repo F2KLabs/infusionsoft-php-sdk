@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_SmartCache{
     protected $ttl = 120;
     protected $name = '';

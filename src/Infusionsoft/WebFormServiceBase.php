@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_WebFormServiceBase extends Infusionsoft_Service{
 
     public static function getMap(Infusionsoft_App $app = null){

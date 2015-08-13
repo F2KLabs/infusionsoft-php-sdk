@@ -1,4 +1,6 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
 class Infusionsoft_ShippingServiceBase extends Infusionsoft_Service{
 
     public static function getAllShippingOptions(Infusionsoft_App $app = null){

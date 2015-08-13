@@ -1,4 +1,7 @@
 <?php
+namespace S1mple\Infusionsoft\Infusionsoft;
+
+
 class Infusionsoft_Service{
 	
 	public static function ping($serviceName, Infusionsoft_App $app = null){	
