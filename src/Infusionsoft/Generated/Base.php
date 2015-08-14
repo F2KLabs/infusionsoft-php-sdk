@@ -1,6 +1,12 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft\Generated;
 
+use S1mple\Infusionsoft\Infusionsoft\Infusionsoft_DataService;
+use S1mple\Infusionsoft\Infusionsoft\Infusionsoft_SdkEvent;
+use S1mple\Infusionsoft\Infusionsoft\Infusionsoft_SdkEventManager;
+use S1mple\Infusionsoft\Infusionsoft\Infusionsoft_Exception;
+use S1mple\Infusionsoft\Infusionsoft\Infusionsoft_DataService;
+
 class Infusionsoft_Generated_Base
 {
     protected $fields;
