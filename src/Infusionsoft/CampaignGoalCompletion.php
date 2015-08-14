@@ -1,12 +1,7 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
-/**
- * Created by PhpStorm.
- * User: Erik
- * Date: 2/3/2015
- * Time: 2:09 PM
- */
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_Base;
 
 class Infusionsoft_CampaignGoalCompletion  extends Infusionsoft_Generated_Base {
     protected static $tableFields = array(

@@ -2,7 +2,7 @@
 namespace S1mple\Infusionsoft\Infusionsoft;
 
 
-class Infusionsoft_Exception extends Exception
+class Infusionsoft_Exception extends \Exception
 {
     public function __construct($message = null, $method = FALSE, $args = FALSE)
     {

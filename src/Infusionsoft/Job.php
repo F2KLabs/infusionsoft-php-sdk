@@ -1,6 +1,8 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_Job;
+
 class Infusionsoft_Job extends Infusionsoft_Generated_Job{
     var $customFieldFormId = -9;
     

@@ -1,6 +1,7 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_Base;
 /**
  * Created by PhpStorm.
  * User: Erik

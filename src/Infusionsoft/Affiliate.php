@@ -1,5 +1,6 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_Affiliate;
 
 class Infusionsoft_Affiliate extends Infusionsoft_Generated_Affiliate{
     var $customFieldFormId = -3;

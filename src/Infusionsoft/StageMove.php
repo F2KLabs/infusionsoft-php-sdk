@@ -1,6 +1,7 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_StageMove;
 
 class Infusionsoft_StageMove extends Infusionsoft_Generated_StageMove{	
     public function __construct($id = null, $app = null){

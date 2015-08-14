@@ -1,6 +1,8 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_DataFormField;
+
 class Infusionsoft_DataFormField extends Infusionsoft_Generated_DataFormField{
 
 

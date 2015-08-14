@@ -1,6 +1,8 @@
 <?php
 namespace S1mple\Infusionsoft\Infusionsoft;
 
+use S1mple\Infusionsoft\Infusionsoft\Generated\Infusionsoft_Generated_RecurringOrder;
+
 class Infusionsoft_RecurringOrder extends Infusionsoft_Generated_RecurringOrder{
     var $customFieldFormId = -10;
     public function __construct($id = null, $app = null){

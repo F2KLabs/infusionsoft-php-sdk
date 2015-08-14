@@ -45,7 +45,7 @@ class Infusionsoft_SmartCache{
     }
 
     public function getDataFromSource(){
-        throw new Exception("Must Override This Method");
+        throw new \Exception("Must Override This Method");
     }
 
     public function isDataNotStale($data){
